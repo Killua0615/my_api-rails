@@ -1,0 +1,2 @@
+class NenAbility < ApplicationRecord
+end

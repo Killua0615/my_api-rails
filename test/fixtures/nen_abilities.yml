@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  aura_type: MyString
+  name: MyString
+
+two:
+  aura_type: MyString
+  name: MyString
